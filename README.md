@@ -42,8 +42,9 @@ velociraptor-incident-response-project/
 ├── README.md
 ├── Assets/
 ├── 01. Architecture
-├──
-├──
+├── 02. Veloiraptor-Server-Setup 
+├── 03. Windows-Client-Configuration-&-Deployement
+
 ```
 
 ---
