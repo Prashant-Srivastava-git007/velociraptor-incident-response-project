@@ -44,6 +44,7 @@ velociraptor-incident-response-project/
 ├── 01. Architecture
 ├── 02. Veloiraptor-Server-Setup 
 ├── 03. Windows-Client-Configuration-&-Deployement
+├── 03. Incident-Detection-and-Response
 
 ```
 
